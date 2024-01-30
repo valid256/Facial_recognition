@@ -34,7 +34,7 @@ def preprocess_face_image(image_path):
     # 选择第一个检测到的人脸
     face = faces[0]
 
-    # 人脸关键点检测
+    # 人脸关键点检测哈哈哈
     landmarks = predictor(gray, face)
 
     # 人脸对齐
