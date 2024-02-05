@@ -18,5 +18,5 @@ label.pack(anchor='center')
 # 调用time函数开始更新时间
 time()
 
-# 运行窗口主循环只是随随便便的写的续期而已
+# 运行窗口主循环只是随随便便的我真的会谢
 window.mainloop()
